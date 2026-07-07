@@ -1,0 +1,16 @@
+[config]
+show=drun
+prompt=Search
+location=center
+xoffset=0
+yoffset=0
+width=500
+height=400
+columns=1
+allow_images=true
+image_size=32
+term=kitty
+insensitive=true
+print_command=true
+hide_scroll=true
+no_actions=true
