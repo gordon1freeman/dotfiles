@@ -1,0 +1,45 @@
+window {
+    margin: 0px;
+    border: 1px solid #ffffff;
+    background-color: #000000;
+    font-family: "FantasqueSansMono Nerd Font", "monospace";
+    font-size: 13px;
+}
+
+#outer-box {
+    margin: 0px !important;
+    padding: 0px !important;
+}
+
+#inner-box {
+    margin: 0px !important;
+    padding: 0px !important;
+}
+
+#scroll {
+    margin: 0px;
+    border: none;
+}
+
+#text {
+    margin: 5px;
+    border: none;
+    color: #555555;
+}
+
+#entry {
+    border: none;
+}
+
+#entry:padded {
+    padding: 2px;
+}
+
+#entry:selected {
+    background-color: #ffffff;
+}
+
+#entry:selected #text {
+    color: #000000;
+    font-weight: bold;
+}
