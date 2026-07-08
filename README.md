@@ -1,5 +1,5 @@
 ###### 🐧 just my dotfiles
 
-mostly sway, but i will also make something for hyprland 
+sway is the superior wm, but i also explore hyprland and window maker now
 
 garbage 🛏️
