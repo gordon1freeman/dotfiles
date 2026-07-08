@@ -1,5 +1,7 @@
 this rice is related to my favorite atmospheric black metal band "звёздный храм", or "star temple"
+
 also, some elements contain gentoo-related things, such as nerd font icons
+
 all colors are monochrome
 
 and listen to their music!
