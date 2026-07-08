@@ -1,0 +1,40 @@
+* {
+    border: none;
+    border-radius: 0;
+    font-family: "FantasqueSansMono Nerd Font", "FantasqueSansMono", "monospace";
+    font-size: 13px;
+    min-height: 0;
+}
+
+window#waybar {
+    background-color: #000000;
+    color: #ffffff;
+    border-bottom: 1px solid #222222;
+}
+
+#custom-gentoo {
+    padding: 0 10px 0 12px;
+    color: #ffffff;
+    font-size: 15px;
+}
+
+#cpu, #memory {
+    padding: 0 10px;
+    color: #cccccc;
+}
+
+#workspaces button {
+    padding: 0 14px;
+    background-color: transparent;
+    color: #555555;
+}
+
+#workspaces button.focused {
+    color: #ffffff;
+    background-color: #111111;
+}
+
+#custom-music_track, #clock {
+    padding: 0 12px;
+    color: #ffffff;
+}
