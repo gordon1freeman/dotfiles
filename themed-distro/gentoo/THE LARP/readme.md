@@ -5,3 +5,6 @@ overall look
 
 <img width="1919" height="44" alt="image" src="https://github.com/user-attachments/assets/eb329e85-9cea-435b-8b63-3d8a29a3a0dc" />
 rounded waybar
+
+<img width="1921" height="31" alt="image" src="https://github.com/user-attachments/assets/4b478eb1-8950-4cad-91b7-65a95e6319e8" />
+not-rounded waybar
