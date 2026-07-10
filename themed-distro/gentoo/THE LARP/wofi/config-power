@@ -1,0 +1,12 @@
+hide_search=true
+hide_scroll=true
+show=dmenu
+width=120
+height=208
+always_parse_args=true
+insensitive=true
+prompt=
+columns=1
+location=center
+xoffset=900
+yoffset=436
