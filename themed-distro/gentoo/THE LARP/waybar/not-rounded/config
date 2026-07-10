@@ -1,0 +1,58 @@
+{
+    "layer": "top",
+    "position": "top",
+    "height": 30,
+    "spacing": 4,
+    
+    "modules-left": [
+    "custom/separator_space",
+        "custom/logo",
+        "custom/separator",
+        "cpu",
+        "custom/separator",
+        "memory"
+    ],
+
+    "modules-center": [
+        "sway/workspaces"
+    ],
+    "modules-right": [
+        "pulseaudio",
+        "custom/separator",
+        "clock",
+        "custom/separator_space"
+    ],
+
+    "custom/logo": {
+        "format": "",
+        "tooltip": false,
+        "on-click": "pkill wofi || ~/.local/bin/wofi-powermenu"
+    },
+
+    "custom/separator": {
+        "format": "|",
+        "tooltip": false
+    },
+
+    "custom/separator_space": {
+            "format": " ",
+            "tooltip": false
+        },
+
+    "cpu": {
+        "format": "CPU: {usage}%",
+        "tooltip": false
+    },
+
+    "memory": {
+        "format": "Mem: {}%",
+        "tooltip": true
+    },
+
+    "clock": {
+    	        "timezone": "local",
+    	        "format": "{:%Y-%m-%d %H:%M:%S}",
+    	        "interval": 1,
+    	        "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>"
+    	    },
+}
